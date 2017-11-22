@@ -1,0 +1,20 @@
+*{
+    font-family: 微軟正黑體;
+}
+.index-img{
+    background-image: url("../images/index-img.jpg");
+    width:1080px;
+    height: 645px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.margin-top{
+    margin-top: 30px;
+}
+.span-text{
+    font-size: 30px;
+    letter-spacing: 10px;
+}
+.logo-color{
+    background-color: #dbdbdb;
+}
